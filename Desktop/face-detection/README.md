@@ -1,7 +1,12 @@
-# Getting Started with Create React App
+# Real Time Face Detection
+Tutorial for React
+To run the project:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<b>Step 1.</b> Clone this repo
+<pre>git clone https://github.com/alainpedro123/web-face-detection.git</pre>
 
-<b>Step 3.</b> Install App Depdendencies 
+<b>Step 2.</b> Run install
 <pre>npm install</pre>
-<br/><br/>
+
+<b>Step 3.</b> Run start 
+<pre>npm start</pre>

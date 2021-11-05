@@ -8,5 +8,5 @@ To run the project:
 <b>Step 2.</b> Install the dependencies
 <pre>npm install</pre>
 
-<b>Step 3.</b> Start teh application 
+<b>Step 3.</b> Start the Application 
 <pre>npm start</pre>

@@ -5,8 +5,8 @@ To run the project:
 <b>Step 1.</b> Clone this repo
 <pre>git clone https://github.com/alainpedro123/web-face-detection.git</pre>
 
-<b>Step 2.</b> Run install
+<b>Step 2.</b> Install the dependencies
 <pre>npm install</pre>
 
-<b>Step 3.</b> Run start 
+<b>Step 3.</b> Start teh application 
 <pre>npm start</pre>

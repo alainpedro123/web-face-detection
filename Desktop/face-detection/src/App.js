@@ -12,7 +12,7 @@
 import React, { useRef, useEffect } from "react";
 import "./App.css";
 
-// OLD MODEL
+// OLD MODEL 
 //import * as facemesh from "@tensorflow-models/facemesh";
 
 // NEW MODEL
